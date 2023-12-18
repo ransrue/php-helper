@@ -28,7 +28,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Buroq\\Helper\\": "src/Helper"
+            "BUROQ\\Helper\\": "src/Helper"
         },
         "files": [
           "src/helper.php"
