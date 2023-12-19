@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/buroq/php-helper.svg?branch=master)](https://travis-ci.org/buroq/php-helper)
+[![Build Status](https://travis-ci.org/ransrue/php-helper.svg?branch=master)](https://travis-ci.org/ransrue/php-helper)
 
 # About
 
