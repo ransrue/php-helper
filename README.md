@@ -25,7 +25,7 @@ Nevertheless, every function is still accessable it in a static way with the pro
 ```php
 <?php
 
-use CNZ\helper\Util as util;
+use BUROQ\Helper\Util as util;
 
 util::dump( 'any content' );
 ```
@@ -62,7 +62,7 @@ After installation, the new global PHP functions are available everywhere in you
  ```php
  <?php
  
-use CNZ\helper\Dev as dev;
+use BUROQ\Helper\Dev as dev;
 
 if( dev::isIphone() ) {
     // Do something here
@@ -185,7 +185,7 @@ Helper class that provides easy access to useful php array functions.
 
 Class Arr
 
-* Full name: \CNZ\helper\Arr
+* Full name: \BUROQ\Helper\Arr
 
 
 ### isAssoc
@@ -555,7 +555,7 @@ Helper class that provides easy access to useful php functions in conjunction wi
 
 Class Dev
 
-* Full name: \CNZ\helper\Dev
+* Full name: \BUROQ\Helper\Dev
 
 
 ### isSmartphone
@@ -929,7 +929,7 @@ Helper class that provides easy access to useful php string functions.
 
 Class Str
 
-* Full name: \CNZ\helper\Str
+* Full name: \BUROQ\Helper\Str
 
 
 ### insert
@@ -1531,7 +1531,7 @@ Helper class that provides easy access to useful common php functions.
 
 Class Util
 
-* Full name: \CNZ\helper\Util
+* Full name: \BUROQ\Helper\Util
 
 
 ### isEmail
@@ -1788,7 +1788,7 @@ Helper class that provides easy access to useful php yml functions.
 
 Class Yml
 
-* Full name: \CNZ\helper\Yml
+* Full name: \BUROQ\Helper\Yml
 
 
 ### isValidFile
